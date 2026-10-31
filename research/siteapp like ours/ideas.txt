@@ -1,0 +1,30 @@
+1.https://fasalsalah.in/
+what it do :- Real-time, location-specific, and crop-specific agro-advisories.
+key features:-
+Hyperlocal village-level forecasts (up to 7 days), audio advisories for farmers who have difficulty reading, disease/pest risk calculations, and mandi prices.
+
+cons:- bekar UI, not frequent updates.
+
+
+
+2.https://plantix.net/
+What it does: Primarily an image-based crop disease diagnosis app, but integrates local weather to predict disease risk.
+
+Key Features: Alerts farmers if forecasted humidity and temperature create high-risk conditions for fungal infections or specific pests.
+
+what we can learn:- our app/web - should/better than this. 
+we could look into there library.
+
+
+3.Damini (IITM Pune / Ministry of Earth Sciences).
+What it does: Lightning and severe squall tracker.
+
+
+Relevance for farmers: Lightning is one of the leading causes of fatal weather incidents in rural India. The app monitors thunderstorm and lightning strikes within a 20–40 km radius to give field workers immediate warnings to seek shelter.
+
+4.mKisan Portal & SMS Advisory.
+Format: Web portal & SMS push service.
+
+What it does: Allows scientists and block extension officers to push localized agromet advisories directly to registered farmers via text/IVR based on meteorological updates.
+
+What it does: Allows scientists and block extension officers to push localized agromet advisories directly to registered farmers via text/IVR based on meteorological updates.

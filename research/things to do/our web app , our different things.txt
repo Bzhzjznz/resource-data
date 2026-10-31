@@ -1,0 +1,4 @@
+our web app , our different things
+
+UI , it shoul be clean and neat , should focus on more graphical things.
+our web/app should focused on more mobile and optimized very much.
